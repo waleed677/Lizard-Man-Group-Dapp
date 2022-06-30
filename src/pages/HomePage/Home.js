@@ -167,7 +167,7 @@ function Home() {
 
 
     const abi = await abiResponse.json();
-    var contract = new Contract(abi, '0xDe484896C9bafD02B21160bB0c314D39EAAeC030');
+    var contract = new Contract(abi, '0xa4c02cc9ce7a27537a07c641d20d99ebbb78ee10');
     contract.setProvider(web3.currentProvider);
     // Get Total Supply
     const totalSupply = await contract.methods
