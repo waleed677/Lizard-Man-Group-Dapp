@@ -9,10 +9,11 @@
 
 body {
   /* background: #3491F9 !important; */
-  background-image: url("./images/bg.png") !important;
+  background-image: url("./images/bg-2.jpg") !important;
   background-repeat: no-repeat;
   background-size: cover;
-  background-position: top;
+  background-position: center ;
+  background-color: #000000;
 }
 
 .flexContainer {
