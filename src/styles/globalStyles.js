@@ -127,7 +127,7 @@ export const Mint = styled.div`
   width: 35%;
   margin: 0;
   position: absolute;
-  top: 50%;
+  top: 70%;
   -ms-transform: translateY(-50%);
   transform: translateY(-50%);
   background: rgba(0,0,0,0.3);
