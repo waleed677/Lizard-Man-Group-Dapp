@@ -247,6 +247,9 @@ function Home() {
 
       <s.FlexContainer jc={"center"} ai={"center"} fd={"row"}
       >
+      <s.Image src={"config/images/lizard.png"} wid={"30"} style={{
+        marginTop: "5%",
+      }} ></s.Image>
         <s.Mint>
           <s.TextTitle
             size={3.0}

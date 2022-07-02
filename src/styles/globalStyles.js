@@ -164,7 +164,6 @@ export const Image = styled.img`
   width: ${({ wid }) => (wid ? wid + "%" : "100%")};
   transition: width 0.5s;
   transition: height 0.5s;
-  margin-top: 20px;
   display: block;
   margin: 0 auto;
   @media (max-width: 767px) {
