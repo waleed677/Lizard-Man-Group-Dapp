@@ -6,7 +6,7 @@ import * as s from "./../../styles/globalStyles";
 import Loader from "../../components/Loader/loader";
 
 const { createAlchemyWeb3 } = require("@alch/alchemy-web3");
-const web3 = createAlchemyWeb3("https://eth-rinkeby.alchemyapi.io/v2/pBY3syVarS-tO2ZAQlA3uWBq_OqzwIDw");
+const web3 = createAlchemyWeb3("https://eth-mainnet.alchemyapi.io/v2/pBY3syVarS-tO2ZAQlA3uWBq_OqzwIDw");
 var Web3 = require('web3');
 var Contract = require('web3-eth-contract');
 
