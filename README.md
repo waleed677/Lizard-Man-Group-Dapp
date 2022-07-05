@@ -26,7 +26,7 @@ https://noisy-base-2897.on.fleek.co
 
 
 # Contract Address
-
+0x54fD9F882bc4BFE0848008496E6f2795CfB403de
 
 
 You can hire me for blockchain work on
