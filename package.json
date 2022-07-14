@@ -1,7 +1,7 @@
 {
-  "name": "LizardManGroup",
+  "name": "TheSaudiWorkers",
   "version": "1.0.0",
-  "description": "Mint Your LMG NFTs",
+  "description": "Mint Your Saudi Workers",
   "private": true,
   "dependencies": {
     "@alch/alchemy-web3": "^1.4.0",
@@ -27,7 +27,7 @@
     "web3-eth-contract": "^1.7.0",
     "web3modal": "^1.9.5"
   },
-  "author": "Waleed Arshad",
+  "author": "The Saudi Worker",
   "license": "MIT",
   "scripts": {
     "start": "react-scripts start",
